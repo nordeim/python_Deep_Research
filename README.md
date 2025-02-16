@@ -175,7 +175,7 @@ if __name__ == '__main__':
     ```
 3.  **Run the script:**
     ```bash
-    python your_script_name.py
+    python Deep_Research_web.py
     ```
 4.  **Open your web browser:** Gradio will provide a local URL (usually `http://0.0.0.0:7860`) that you can open in your browser to interact with the application.
 
