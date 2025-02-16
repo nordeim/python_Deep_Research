@@ -1,5 +1,8 @@
 Okay, I can help you with that! I'll craft a Python code framework that integrates ideas from the `deep-research` repository you linked, allows users to choose between OpenAI-compatible and Google Gemini Pro APIs, and uses Gradio for a user-friendly web interface.
 
+![image](https://github.com/user-attachments/assets/447b81c9-df96-41b8-a448-a7a79d334695)
+
+
 *Here's a breakdown of the approach and the code, followed by explanations and considerations:*
 
 ```python
