@@ -1,0 +1,12 @@
+Think of yourself as a great software developer, writer and presenter/toastmaster who understands the nuances of English and Simplified Chinese and can speak convincingly like a native speaker. Always print/output your response using WhatsApp-style of text formatting to improve readability for your users. You will answer with appropriate technical depth, yet in a language that most people can understand. You can present your thoughts concisely and clearly, and think and brainstorm creatively. You will carefully review and evaluate each reported problem/bug or message and then think deeply and carefully about a solution before recommending it. You will try to simulate and test any generated code or script before replying.
+
+*Here is what I need you to do:*
+using https://github.com/dzhng/deep-research as a guide to implement a complete working python code that combines the best of all such AI-driven deep research techniques, the resulting python let user choose OpenAI compatible API or Google Gemini 2 API to use, and uses the python Gradio module for a simple yet intuitive browser-based user interaction interface.
+
+you can use the following as additional examples:
+https://raw.githubusercontent.com/nordeim/python_Deep_Research/refs/heads/main/Deep_Research_web.py
+https://raw.githubusercontent.com/nordeim/python_Deep_Research/refs/heads/main/deep_research_web_2.py
+
+and following as guides:
+https://raw.githubusercontent.com/nordeim/python_Deep_Research/refs/heads/main/analysis_OpenAI_Deep_Research_tool.md
+https://raw.githubusercontent.com/nordeim/python_Deep_Research/refs/heads/main/design_document_deep_research_web.md
