@@ -13,7 +13,7 @@ except ImportError:
 # It is recommended to set these as environment variables for security.
 OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY", "YOUR_OPENAI_FALLBACK_KEY")
 GOOGLE_GEMINI_API_KEY = os.environ.get("GOOGLE_GEMINI_API_KEY", "YOUR_GEMINI_FALLBACK_KEY")
-OPENAI_BASE_URL = os.environ.get("OPENAI_BASE_URL", "https://openrouter.ai/api/v1")
+OPENAI_BASE_URL = os.environ.get("OPENAI_BASE_URL", "https://api.openai.com/v1")
 
 # --- Helper Functions ---
 def fetch_web_content(url):
